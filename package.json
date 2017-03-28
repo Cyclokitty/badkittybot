@@ -1,0 +1,13 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "bad.kitty is the slackbot in the dungeon_decorators room. He is not a nice kitty.",
+  "main": "index.js",
+  "author": "Laura Veee <droolaquarium@gmail.com> (https://cyclokitty.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "botkit": "^0.5.2",
+    "dotenv": "^4.0.0",
+    "unique-random-array": "^1.0.0"
+  }
+}
