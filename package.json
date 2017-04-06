@@ -8,6 +8,8 @@
   "dependencies": {
     "botkit": "^0.5.2",
     "dotenv": "^4.0.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0",
     "unique-random-array": "^1.0.0"
   }
 }
