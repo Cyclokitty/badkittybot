@@ -1,6 +1,6 @@
 # Badkittybot
-My slack bot: *@bad.kitty*! He won't encourage you or help you ever. He will offer you photos of his sarcastic feline friends.
-Type */help* in slack while mentioning *@bad.kitty* for a list of commands and interactions!
+My slack bot: **@bad.kitty**! He won't encourage you or help you ever. He will offer you photos of his sarcastic feline friends.
+Type **/help** in slack while mentioning **@bad.kitty** for a list of commands and interactions!
 
 ## Commands
 Commands | Response
@@ -28,8 +28,8 @@ Commands | Response
 1. Clone the repo
 2. Create a bot in slack (https://YOURTEAMHERE.com/apps/manage/custom-integrations)
 3. Get the token
-..*if you wish to run it local or without an .env file skip to step 6
-4. Create an .env in the same folder as index.js
+    * if you wish to run it local or without an ".env" file skip to step 6
+4. Create an ".env" in the same folder as index.js
 5. Add "token=YOURBOTTOKEN" to the file
 6. run the bot using "node index.js" or if you didn't make an env, "set token=YOURTOKEN & node index.js"
 
