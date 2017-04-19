@@ -1,0 +1,8 @@
+{
+    "/help": "List all the commands",
+    "/uptime" : "Bot uptime",
+    "/custom" : "List custom interactions",
+    "/git": "Links the github",
+    "'Fact', 'Tell me something'" : "Random fact about cats",
+    "'Img', 'Photo', 'Inspiration'" : "Displays a cat meme"
+}
